@@ -95,5 +95,6 @@ Push to the branch (git push origin feature/awesome-new-metric).
 Open a Pull Request.
 
 **Submitted by-**
-**Riajul Hoque Choudhury**
+**Riajul Hoque Choudhury,**
 **ADTU/2022-26/BCS(I)/044**
+
