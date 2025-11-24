@@ -18,18 +18,18 @@ You need Python 3.8+ installed. You will also need git to clone the repository.
 
 Execute these commands in your terminal to get the project running:
 
-# 1. Clone the repository
+ **1. Clone the repository**
 git clone [https://github.com/Riajulhc/Data-Analysis-Report.git](https://github.com/Riajulhc/Data-Analysis-Report.git)
 cd Data-Analysis-Report
 
-# 2. Create and activate a Virtual Environment (Highly Recommended!)
+**2. Create and activate a Virtual Environment (Highly Recommended!)**
 python -m venv .venv
-# On Linux/macOS:
+ **On Linux/macOS:**
 source .venv/bin/activate
-# On Windows (PowerShell):
+ **On Windows (PowerShell):**
 .venv\Scripts\Activate.ps1 
 
-# 3. Install dependencies
+**3. Install dependencies**
 pip install pandas
 
 
@@ -37,7 +37,7 @@ pip install pandas
 
 You must run the script as a module (-m) from the project's root directory to ensure Python correctly recognizes the src package imports.
 
-# Run the report generator module
+**Run the report generator module**
 python -m src.report_generator
 
 
@@ -81,5 +81,6 @@ Open a Pull Request.
 **Submitted by-**
 **Riajul Hoque Choudhury,**
 **ADTU/2022-26/BCS(I)/044**
+
 
 
