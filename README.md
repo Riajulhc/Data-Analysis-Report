@@ -45,24 +45,8 @@ python -m src.report_generator
 
 The script will produce a clean, formatted report like this:
 
-Starting Sales Data Analysis...
-✅ Data loaded successfully from: sales_data.csv
+<img width="973" height="528" alt="image" src="https://github.com/user-attachments/assets/24307ed8-47e3-4444-9d81-dcdb3fdebf6e" />
 
-==================================================
-      📈 MONTHLY SALES ANALYSIS REPORT 📊      
-==================================================
-
---- 1. OVERALL PERFORMANCE ---
-Total Revenue Generated:  $526,700.00
-Total Units Sold:         736
-Average Order Value:      $26,335.00
-
---- 2. KEY INSIGHTS ---
-Highest Performing Region: East
-
-==================================================
-         Report Generation Complete          
-==================================================
 
 
 **Input Data Format**
@@ -97,4 +81,5 @@ Open a Pull Request.
 **Submitted by-**
 **Riajul Hoque Choudhury,**
 **ADTU/2022-26/BCS(I)/044**
+
 
